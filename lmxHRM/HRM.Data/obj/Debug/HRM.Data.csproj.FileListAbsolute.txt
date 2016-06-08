@@ -1,0 +1,15 @@
+F:\Project\lmxHRM\HRM.Data\bin\Debug\HRM.Data.dll
+F:\Project\lmxHRM\HRM.Data\bin\Debug\HRM.Data.pdb
+F:\Project\lmxHRM\HRM.Data\obj\Debug\HRM.Data.csprojResolveAssemblyReference.cache
+F:\Project\lmxHRM\HRM.Data\obj\Debug\HRM.Data.dll
+F:\Project\lmxHRM\HRM.Data\obj\Debug\HRM.Data.pdb
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\HRM.Data.dll.config
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\HRM.Data.dll
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\HRM.Data.pdb
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\EntityFramework.dll
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\EntityFramework.xml
+E:\Atib\Projects\lmxHRM\HRM.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Atib\Projects\lmxHRM\HRM.Data\obj\Debug\HRM.Data.csprojResolveAssemblyReference.cache
+E:\Atib\Projects\lmxHRM\HRM.Data\obj\Debug\HRM.Data.dll
+E:\Atib\Projects\lmxHRM\HRM.Data\obj\Debug\HRM.Data.pdb

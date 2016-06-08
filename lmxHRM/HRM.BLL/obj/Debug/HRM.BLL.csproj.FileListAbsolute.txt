@@ -1,0 +1,16 @@
+F:\Project\lmxHRM\HRM.BLL\bin\Debug\HRM.BLL.dll
+F:\Project\lmxHRM\HRM.BLL\bin\Debug\HRM.BLL.pdb
+F:\Project\lmxHRM\HRM.BLL\bin\Debug\HRM.Data.dll
+F:\Project\lmxHRM\HRM.BLL\bin\Debug\HRM.Data.pdb
+F:\Project\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.csprojResolveAssemblyReference.cache
+F:\Project\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.dll
+F:\Project\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.pdb
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\HRM.BLL.dll
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\HRM.BLL.pdb
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\HRM.Data.dll
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\EntityFramework.dll
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\HRM.Data.pdb
+E:\Atib\Projects\lmxHRM\HRM.BLL\bin\Debug\EntityFramework.xml
+E:\Atib\Projects\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.csprojResolveAssemblyReference.cache
+E:\Atib\Projects\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.dll
+E:\Atib\Projects\lmxHRM\HRM.BLL\obj\Debug\HRM.BLL.pdb
